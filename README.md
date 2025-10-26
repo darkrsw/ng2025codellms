@@ -28,5 +28,15 @@ Woonoh IT Hall @ Korea University
 
 ### Day 2
 
-- 11:00am
-- ...
+- 10:00 / Zhongxin Liu / From LLM-Driven Fault Localization to Fault-Aware Code Generation
+- 10:30 / Weiyi Shang / Towards Pragmatic Pre-processing of Logs
+- 11:00 / Zhenhao Li / Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
+- 11:30 / Shou Liu / Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence
+- 12:00 / Lunch Time !
+- 13:00 / Qiang Hu / Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs
+- 13:30 / Tiezhu Sun / RAML: Toward Retrieval-Augmented Localization of Malicious Payloads in Android Apps
+- 14:00 / Zhensu Sun / Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand
+- 14:30 / Dianshu Liao / Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models
+- 15:00 / Haochen Gong / Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator
+- 15:30 / Junda He / ...
+- 16:00 / Discussion and Networking Time :) 
