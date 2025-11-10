@@ -12,9 +12,27 @@ We hope you enjoy the state-of-the-art research, inspiring new ideas, and valuab
 
 Woonoh IT Hall @ Korea University
 
-(...map...)
+Kakao Map: https://place.map.kakao.com/1991433382
+
+Google Maps: https://maps.app.goo.gl/whphTirpRkecZij96
+
+Open Street Map: https://www.openstreetmap.org/#map=18/37.584790/127.028743
+
+
+
+### Direction
+
+#### From Anam Station (Line 6)
+
+<img width="1057" height="794" alt="Screenshot 2025-11-10 at 1 09 21 PM" src="https://github.com/user-attachments/assets/ecdf77f2-51ef-4895-8644-9e41996732c9" />
 
 ### Transportations
+
+(bus)
+
+(metro)
+
+(taxi)
 
 
 ## Program at a glance
