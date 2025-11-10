@@ -19,29 +19,53 @@ Woonoh IT Hall @ Korea University
 
 ## Program at a glance
 
-### Day 1
+### Day 1, 16th November, 2025 (Sunday)
+
+#### Session 1
+
+- 14:00pm / Opening
+- 14:30pm / Tobias Kiecker / Detecting and Mitigating Inconsistencies Between Code, Documentation and Tests
+- 15:00pm / Honghao Tan / Coverage-Based Harmfulness Testing for LLM Code Transformation
+- 15:30 / Zhou Yang / Advancing Software, Society, and Security with Trusted Intelligence
+- 16:00pm / Chaiyong Ragkhitwetsagul	/ Social Media Reactions to Open Source Promotions: AI-Powered GitHub Projects on Hacker News
+- 16:30pm / Jieke Shi / Optimizing and Fortifying AI Software via Program Synthesis
+- 17:00pm / Hengcheng Zhu / LSPFuzz: Hunting Bugs in Language Servers
+- 17:30pm / Discussion & Closing
+
+#### Dinner
+
+- 16:00pm / Dinner
 
 
-- 14:30pm / Tobias Kiecker /
-- xx:00pm / Honghao Tan / 
-- xx:30pm / Zhou Yang /
-- xx:00pm / Jieke Shi /
-- xx:30pm / Hengcheng Zhu / 
+### Day 2, 20th November, 2025 (Thursday)
 
-
-### Day 2
+#### Session 1
 
 - 10:00 / Zhongxin Liu / From LLM-Driven Fault Localization to Fault-Aware Code Generation
 - 10:30 / Weiyi Shang / Towards Pragmatic Pre-processing of Logs
 - 11:00 / Zhenhao Li / Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
 - 11:00 / Sergey Mechtaev / ...
 - 11:30 / Shou Liu / Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence
-- 12:00 / Lunch Time !
+
+#### Lunch
+
+- 12:00 / Lunch
+
+#### Session 2
+
 - 13:00 / Qiang Hu / Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs
 - 13:30 / Tiezhu Sun / RAML: Toward Retrieval-Augmented Localization of Malicious Payloads in Android Apps
 - 14:00 / Zhensu Sun / Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand
 - 14:30 / Dianshu Liao / Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models
+
+#### Session 3
+
 - 15:00 / Haochen Gong / Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator
 - 15:30 / Junda He / ...
 - 15:30 / Xiaodong Gu / ...
-- 16:00 / Discussion and Networking Time :) 
+- 16:00 / Discussion and Networking Time :)
+
+
+#### Dinner
+
+- 17:00 / Dinner
