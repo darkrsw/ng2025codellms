@@ -58,9 +58,6 @@ Venue: Room 609, Woonoh IT Hall
 - 17:00pm / Hengcheng Zhu / LSPFuzz: Hunting Bugs in Language Servers
 - 17:30pm / Discussion & Closing
 
-#### Dinner
-
-- 18:00pm / Dinner
 
 
 ### Day 2, 20th November, 2025 (Thursday)
@@ -97,7 +94,3 @@ Venue: Room 616, Woonoh IT Hall
 - 15:30 / Xiaodong Gu / ...
 - 16:00 / Discussion and Networking Time :)
 
-
-#### Dinner
-
-- 17:00 / Dinner
