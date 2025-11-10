@@ -24,7 +24,13 @@ Open Street Map: https://www.openstreetmap.org/#map=18/37.584790/127.028743
 
 #### From Anam Station (Line 6)
 
+(Kakao Map)
 <img width="1057" height="794" alt="Screenshot 2025-11-10 at 1 09 21 PM" src="https://github.com/user-attachments/assets/ecdf77f2-51ef-4895-8644-9e41996732c9" />
+
+
+(Google Maps)
+<img width="1361" height="684" alt="Screenshot 2025-11-10 at 1 30 10 PM" src="https://github.com/user-attachments/assets/91828f8e-a1bb-4cd2-bd2f-ad18cd3da7cb" />
+
 
 ### Transportations
 
