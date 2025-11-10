@@ -69,7 +69,7 @@ Venue: Room 520, Woonoh IT Hall
 - 10:00 / Zhongxin Liu / From LLM-Driven Fault Localization to Fault-Aware Code Generation
 - 10:30 / Weiyi Shang / Towards Pragmatic Pre-processing of Logs
 - 11:00 / Zhenhao Li / Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
-- 11:00 / Sergey Mechtaev / ...
+- 11:00 / Sergey Mechtaev /  Automated Repair of Ambiguous Problem Descriptions for LLM-Based Code Generation
 - 11:30 / Shou Liu / Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence
 
 #### Lunch
