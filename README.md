@@ -34,7 +34,7 @@ Woonoh IT Hall @ Korea University
 
 #### Dinner
 
-- 16:00pm / Dinner
+- 18:00pm / Dinner
 
 
 ### Day 2, 20th November, 2025 (Thursday)
