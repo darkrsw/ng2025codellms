@@ -52,7 +52,7 @@ Venue: Room 609, Woonoh IT Hall
 - 14:00pm / Opening
 - 14:30pm / Tobias Kiecker / Detecting and Mitigating Inconsistencies Between Code, Documentation and Tests
 - 15:00pm / Honghao Tan / Coverage-Based Harmfulness Testing for LLM Code Transformation
-- 15:30 / Zhou Yang / Advancing Software, Society, and Security with Trusted Intelligence
+- 15:30pm / Zhou Yang / Advancing Software, Society, and Security with Trusted Intelligence
 - 16:00pm / Chaiyong Ragkhitwetsagul	/ Social Media Reactions to Open Source Promotions: AI-Powered GitHub Projects on Hacker News
 - 16:30pm / Jieke Shi / Optimizing and Fortifying AI Software via Program Synthesis
 - 17:00pm / Hengcheng Zhu / LSPFuzz: Hunting Bugs in Language Servers
@@ -70,7 +70,8 @@ Venue: Room 520, Woonoh IT Hall
 - 10:30 / Weiyi Shang / Towards Pragmatic Pre-processing of Logs
 - 11:00 / Zhenhao Li / Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
 - 11:00 / Sergey Mechtaev /  Automated Repair of Ambiguous Problem Descriptions for LLM-Based Code Generation
-- 11:30 / Shou Liu / Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence
+- 11:30 / Xiaodong Gu / On understanding complex software repository
+
 
 #### Lunch
 
@@ -80,17 +81,17 @@ Venue: Room 520, Woonoh IT Hall
 
 Venue: Room 609, Woonoh IT Hall 
 
-- 13:00 / Qiang Hu / Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs
-- 13:30 / Tiezhu Sun / RAML: Toward Retrieval-Augmented Localization of Malicious Payloads in Android Apps
-- 14:00 / Zhensu Sun / Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand
-- 14:30 / Dianshu Liao / Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models
+- 13:30 / Shou Liu / Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence
+- 14:00 / Qiang Hu / Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs
+- 14:30 / Tiezhu Sun / RAML: Toward Retrieval-Augmented Localization of Malicious Payloads in Android Apps
 
 #### Session 3
 
 Venue: Room 616, Woonoh IT Hall 
 
-- 15:00 / Haochen Gong / Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator
-- 15:30 / Junda He / ...
-- 15:30 / Xiaodong Gu / ...
-- 16:00 / Discussion and Networking Time :)
+- 15:00 / Zhensu Sun / Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand
+- 15:30 / Dianshu Liao / Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models
+- 16:00 / Haochen Gong / Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator
+- 16:30 / Junda He / ...
+- 17:00 / Discussion and Networking Time :)
 
