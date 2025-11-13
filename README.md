@@ -20,6 +20,21 @@ Open Street Map: https://www.openstreetmap.org/#map=18/37.584790/127.028743
 
 
 
+### Transportations
+
+Basically, you need to get to Anam Station (Metro Line 6).
+
+* **By public transportation**
+<img width="1567" height="956" alt="Screenshot 2025-11-13 at 8 28 08 PM" src="https://github.com/user-attachments/assets/b2b60a1f-2210-4fc3-af56-871d2ba6e2d9" />
+
+
+
+
+* **By taxi or Uber**
+<img width="1561" height="946" alt="Screenshot 2025-11-13 at 8 25 45 PM" src="https://github.com/user-attachments/assets/1b976a0a-5200-40a7-b9be-ae94ab6576a7" />
+
+
+
 ### Direction
 
 #### From Anam Station (Line 6)
@@ -36,13 +51,6 @@ Open Street Map: https://www.openstreetmap.org/#map=18/37.584790/127.028743
 <img width="1052" height="940" alt="Screenshot 2025-11-13 at 7 54 03 PM" src="https://github.com/user-attachments/assets/cc634e7b-6b7f-461e-b753-66e53ea1344d" />
 
 
-### Transportations
-
-(bus)
-
-(metro)
-
-(taxi)
 
 
 ## Program at a glance
