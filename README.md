@@ -77,12 +77,9 @@ Venue: Room 609, Woonoh IT Hall
 #### Session 1
 
 Venue: Room 520, Woonoh IT Hall 
-
-- 10:00 / Zhongxin Liu / From LLM-Driven Fault Localization to Fault-Aware Code Generation
-- 10:30 / Weiyi Shang / Towards Pragmatic Pre-processing of Logs
-- 11:00 / Sergey Mechtaev /  Automated Repair of Ambiguous Problem Descriptions for LLM-Based Code Generation
-- 11:30 / Xiaodong Gu / On understanding complex software repository
-
+- 10:30 /	Zhongxin Liu /	From LLM-Driven Fault Localization to Fault-Aware Code Generation
+- 11:00 /	Sergey Mechtaev /	Automated Repair of Ambiguous Problem Descriptions for LLM-Based Code Generation
+- 11:30 /	Xiaodong Gu /	On understanding complex software repository
 
 #### Lunch
 
@@ -91,19 +88,19 @@ Venue: Room 520, Woonoh IT Hall
 #### Session 2
 
 Venue: Room 609, Woonoh IT Hall 
-
-- 13:30 / Shou Liu / Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence
-- 14:00 / Qiang Hu / Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs
-- 14:30 / Tiezhu Sun / RAML: Toward Retrieval-Augmented Localization of Malicious Payloads in Android Apps
+- 13:30 /	Weiyi Shang /	Towards Pragmatic Pre-processing of Logs
+- 14:00 /	Zhenhao Li / Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
+- 14:30 /	Zhensu Sun /	AI-friendly code representation in an era of LLMs
 
 #### Session 3
 
 Venue: Room 616, Woonoh IT Hall 
+- 15:00	/ Qiang Hu	/ Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs
+- 15:30	/ Shou Liu	/ Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence
+- 16:00	/ Tiezhu Sun	/ RAML: Toward Retrieval-Augmented Localization of Malicious Payloads in Android Apps
+- 16:30	/ Dianshu Liao	/ Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models
+- 17:00	/ Haochen Gong	/ Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator
+- 17:30	/ Junda He	/ From Code to Courtroom: LLMs as the New Software Judges
 
-- 15:00 / Zhensu Sun / Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand
-- 15:30 / Dianshu Liao / Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models
-- 16:00 / Haochen Gong / Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator
-- 16:30 / Junda He / ...
-- 17:00 / Zhenhao Li / Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
-- 17:30 / Discussion and Networking Time :)
+#### Dinner 
 
