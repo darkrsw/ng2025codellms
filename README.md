@@ -80,7 +80,6 @@ Venue: Room 520, Woonoh IT Hall
 
 - 10:00 / Zhongxin Liu / From LLM-Driven Fault Localization to Fault-Aware Code Generation
 - 10:30 / Weiyi Shang / Towards Pragmatic Pre-processing of Logs
-- 11:00 / Zhenhao Li / Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
 - 11:00 / Sergey Mechtaev /  Automated Repair of Ambiguous Problem Descriptions for LLM-Based Code Generation
 - 11:30 / Xiaodong Gu / On understanding complex software repository
 
@@ -105,5 +104,6 @@ Venue: Room 616, Woonoh IT Hall
 - 15:30 / Dianshu Liao / Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models
 - 16:00 / Haochen Gong / Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator
 - 16:30 / Junda He / ...
-- 17:00 / Discussion and Networking Time :)
+- 17:00 / Zhenhao Li / Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
+- 17:30 / Discussion and Networking Time :)
 
