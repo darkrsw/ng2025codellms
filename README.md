@@ -34,6 +34,8 @@ Basically, you need to get to Anam Station (Metro Line 6).
 <img width="1561" height="946" alt="Screenshot 2025-11-13 at 8 25 45 PM" src="https://github.com/user-attachments/assets/1b976a0a-5200-40a7-b9be-ae94ab6576a7" />
 
 
+<br/><br/>
+
 
 ### Direction
 
@@ -43,14 +45,20 @@ Basically, you need to get to Anam Station (Metro Line 6).
 <img width="1057" height="794" alt="Screenshot 2025-11-10 at 1 09 21 PM" src="https://github.com/user-attachments/assets/ecdf77f2-51ef-4895-8644-9e41996732c9" />
 
 
+<br/><br/>
+
 (Google Maps)
 <img width="1361" height="684" alt="Screenshot 2025-11-10 at 1 30 10 PM" src="https://github.com/user-attachments/assets/91828f8e-a1bb-4cd2-bd2f-ad18cd3da7cb" />
+
+<br/><br/>
 
 
 (Naver Map)
 <img width="1052" height="940" alt="Screenshot 2025-11-13 at 7 54 03 PM" src="https://github.com/user-attachments/assets/cc634e7b-6b7f-461e-b753-66e53ea1344d" />
 
 
+
+<br/><br/>
 
 
 ## Program at a glance
@@ -77,6 +85,7 @@ Venue: Room 609, Woonoh IT Hall
 #### Session 1
 
 Venue: Room 520, Woonoh IT Hall 
+- 10:00 / Opening
 - 10:30 /	Zhongxin Liu /	From LLM-Driven Fault Localization to Fault-Aware Code Generation
 - 11:00 /	Sergey Mechtaev /	Automated Repair of Ambiguous Problem Descriptions for LLM-Based Code Generation
 - 11:30 /	Xiaodong Gu /	On understanding complex software repository
@@ -104,3 +113,4 @@ Venue: Room 616, Woonoh IT Hall
 
 #### Dinner 
 
+(Tentative)
