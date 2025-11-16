@@ -70,7 +70,7 @@ Basically, you need to get to Anam Station (Metro Line 6).
 Venue: Room 609, Woonoh IT Hall 
 
 - 14:00pm / Opening
-- 14:30pm / Tobias Kiecker / Detecting and Mitigating Inconsistencies Between Code, Documentation and Tests
+- 14:30pm / Tobias Kiecker / Dependency Debloating via Method Replacement (with LLMs)
 - 15:00pm / Honghao Tan / Coverage-Based Harmfulness Testing for LLM Code Transformation
 - 15:30pm / Zhou Yang / Advancing Software, Society, and Security with Trusted Intelligence
 - 16:00pm / Chaiyong Ragkhitwetsagul	/ Social Media Reactions to Open Source Promotions: AI-Powered GitHub Projects on Hacker News
